@@ -42,6 +42,8 @@
 * Publicize the software in the Hackcon and Hackathon Hackers Facebook groups
 * Publicize the software on our Twitter and our Facebook page
 * Create some GitHub Issues on easy features or bugfixes to give new contributors a place to start
+* Add the project to the "Software for Hackathons" page in the [MLH Hackathon Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide)
+* Add the project to the [awesome-hackathons](https://github.com/cconsidine/awesome-hackathons) list
 
 [helpq]: https://github.com/ehzhang/HELPq
 [gavel]: https://github.com/anishathalye/gavel
