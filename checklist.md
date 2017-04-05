@@ -30,6 +30,8 @@
 * Set up good issue labels
     * See [Gavel](https://github.com/anishathalye/gavel/issues) for an example
 * Close old / irrelevant issues
+* Set up a "Users" page in the wiki and link to it from the README (cause it's fun to know who uses our software)
+    * See [Gavel](https://github.com/anishathalye/gavel/wiki/Users) or [Quill](https://github.com/techx/quill/wiki/Quill-Users) for examples
 
 ## Releasing a project
 
